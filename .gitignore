@@ -1,0 +1,13 @@
+state/
+.env
+.env.*
+!.env.example
+meta-api-key
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.coverage
+htmlcov/
+*.log
